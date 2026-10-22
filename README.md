@@ -115,8 +115,8 @@ Seeking to contribute as an entry-level SOC Analyst, applying my foundational kn
 ## 📬 Contact
 
 - **GitHub:** [Adorn-06](https://github.com/Adorn-06)
-- **LinkedIn:** [Add your verified LinkedIn profile URL](https://www.linkedin.com/in/adorn-).
-- **Email:**adorncyriacmathew.com.
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/adorn-).
+- **Email:** [Email](https://www.adorncyriacmathew@gmail.com)
 
 ## 🚀 Run Locally
 
